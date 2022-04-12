@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Rodrigo
+- 👋 Hi, I’m Rodrigo.
 
-- 👀 I’m interested in Front-End Development and UI Design :)
+- 👀 I’m VERY interested in Front-End Development and UI Design :)
 
-- 🌱 I’m currently learning VanillaJS, SAAS and React (but always learning CSS and HTML more and more...)
+- 🚀 On the wat to becoming an EXPERT in the development and design of interfaces.
+
+- 🌱 I’m currently improving my skills in VanillaJS, and also starting learning React (but always training CSS and HTML more and more...)
 
 
 
