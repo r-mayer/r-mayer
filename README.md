@@ -21,6 +21,8 @@
 
 - I am currently reinforcing my knowledge in HMTL and CSS (which I have more ability to work with) and deepening my studies in Javascript.
 
+- For that, I'm practicing in several different ways. One of them is solving FrontendMentor challenges (https://www.frontendmentor.io/profile/r-mayer)
+
 - Next step is to start my studies in React.js, Next.js and Typescript. 
 
 
