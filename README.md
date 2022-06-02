@@ -19,11 +19,11 @@
 
 ## What I'm learning
 
-- I am currently reinforcing my knowledge in HMTL and CSS (which I have more ability to work with) and deepening my studies in Javascript.
+- I am currently reinforcing my knowledge in REACT and exploring the magic of Next.js.
 
-- For that, I'm practicing in several different ways. One of them is solving FrontendMentor challenges (https://www.frontendmentor.io/profile/r-mayer)
+- For that, I'm practicing in several different ways. One of them is solving FrontendMentor challenges (https://www.frontendmentor.io/profile/r-mayer). Other one is creating some personal projects.
 
-- Next step is to start my studies in React.js, Next.js and Typescript. 
+- Next step is to start my studies in Typescript, Mongodb and testing frameworks. 
 
 
 <!---
