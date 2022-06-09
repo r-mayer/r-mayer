@@ -4,7 +4,7 @@
 
 - 🚀 On the road to becoming an EXPERT in the development and design of interfaces.
 
-- 🌱 I’m currently improving my skills in VanillaJS, and also starting learning React (but always training CSS and HTML more and more...)
+- 🌱 I’m currently improving my skills in React.js and Next.js.
 
 
 ## My career so far
